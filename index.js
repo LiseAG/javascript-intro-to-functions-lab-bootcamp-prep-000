@@ -7,5 +7,5 @@ return string.toLowerCase()
 }
 
 function logShout(string){
-  console.log ('${greeting}'.toUpperCase)
+  console.log ('hello.toUpperCase')
 }
